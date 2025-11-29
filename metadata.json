@@ -1,0 +1,5 @@
+{
+  "name": "EtherLink Bridge",
+  "description": "A cross-chain bridge interface allowing users to bridge assets from Testnet to Mainnet, featuring AI-powered gas estimation and transaction analysis.",
+  "requestFramePermissions": []
+}
